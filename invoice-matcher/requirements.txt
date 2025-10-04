@@ -1,0 +1,7 @@
+PyMuPDF
+pdfplumber
+Pillow
+google-generativeai
+python-dotenv
+streamlit
+fpdf
